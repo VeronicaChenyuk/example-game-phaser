@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phaser": "^3.22.0"
+    "phaser": "^3.55.2"
   }
 }
